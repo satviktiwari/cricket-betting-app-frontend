@@ -1,0 +1,11 @@
+.navbar-logo {
+    height: 100%;
+    max-height: 50px; /* Adjust this value as needed */
+    width: auto;
+    object-fit: contain;
+
+    /* Add this to center the logo */
+    margin: auto 5px;
+    margin-top: 10%;
+
+  }
